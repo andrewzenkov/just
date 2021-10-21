@@ -7,6 +7,7 @@
 
 ### Authentication/Authorization
 1. JWT (https://www.youtube.com/watch?v=vQldMjSJ6-w). 3 parts
+2. Cookie (https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
 ### Nodejs
 1. https://www.youtube.com/watch?v=MXqKatH5Lw4
